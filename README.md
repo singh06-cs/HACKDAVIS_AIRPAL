@@ -1,2 +1,1 @@
-# HACKDAVIS_AIRPAL
-A real-time air quality monitoring system using Arduino sensors, WiFi data transfer, and a Qt-based app to display live environmental readings.
+Our 24 hr HackDavis project is an Arduino-powered air quality monitoring system that collects real-time environmental data and displays it through a custom Qt application. Using sensors such as an MQ gas sensor, dust sensor, and CJMCU-1100, the device measures air quality indicators and sends the data to a server in JSON format. The app then presents the readings in a user-friendly way, allowing users to quickly understand whether the air around them is safe or unhealthy. This project combines hardware, sensors, networking, and UI design to create a practical tool for environmental awareness.
